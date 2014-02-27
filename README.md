@@ -87,3 +87,8 @@ Záverečnú prácu v elektronickej podobe (vo formáte PDF) spolu s jej príloh
   * [Návody k záverečným prácam na UK](https://moja.uniba.sk/zaverecne-prace/)
   * [Manuál k písaniu záverečnej práce](http://www.sccg.sk/ferko/manual%20k%20pisaniu%20zavercnej%20prace.pdf) (PDF; Ferko, 2010)
   * [Odporúčania k písaniu bakalárskej a diplomovej práce](http://www.dai.fmph.uniba.sk/w/Recommendation_for_Writing_Bachelor_and_Diploma_Theses) (Ferko, 2005)
+
+
+## Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Tento <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">dokument</span> je pod licenciou <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
