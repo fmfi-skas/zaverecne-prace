@@ -1,7 +1,7 @@
 Záverečné práce na UK
 =====================
 
-Záverečné práca by mala obsahovať iba literatúrov podložené fakty a verifikovateľné hypotézy.
+Záverečné práca by mala obsahovať iba literatúrou podložené fakty a verifikovateľné hypotézy.
 
 Práca musí byť originálna, napísaná iba autorom samotným. Autor môže využívať dostupné informačné zdroje, ak sú správne citované a ak tým neporuší autorské práva iných autorov.
 
