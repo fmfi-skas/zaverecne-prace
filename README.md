@@ -54,7 +54,6 @@ Pomlčka najčastejšie nahrádza výrazy „až“, „do“, „a“.
 
 Pojem **sirota** označuje osamotený riadok odseku na začiatku strany. **Vdova** je osamotený riadok odseku, ktorý je na strane posledný. Pokiaľ sa nejedná o jednoriadkové odseky, oba typy riadkov sa nesmú vyskytnúť.
 
-
 #### Skratky titulov
 
 Skratky **akademických titulov** (Bc., Mgr., RNDr., …)  sa uvádzajú pred menom. Za skratkou sa píše bodka a od mena sa oddeľuje medzerou. Ak je pred menom viac titulov, neskôr získané tituly sa píšu pred skôr získanými titulmi.
@@ -65,4 +64,25 @@ Absolventom doktorandského štúdia sa priznávajú **akademické hodnosti**. S
 (kandidát vied) a DrSc. (doktor vied) priznané podľa starších predpisov sa uvádzajú za menom, od ktorého sa oddeľujú čiarkou.
 
 Príklad: prof. RNDr. Meno Priezvisko, PhD., doc. Mgr. Meno Priezvisko, CSc.
+
+
+## Odovzdanie práce
+
+Práca sa odovzdáva v elektronickej a tlačenej podobe. Vytlačená by mala byť jednostranne a zviazaná v pevnej väzbe tak, aby sa jednotlivé listy nedali vyberať.
+
+Záverečnú prácu v elektronickej podobe (vo formáte PDF) spolu s jej prílohami je potrebné odovzdať do systému [AiS2](https://ais2.uniba.sk/). Na webovej stránke univerzity nájdete [podrobnejšie informácie a návody](https://moja.uniba.sk/zaverecne-prace/).
+
+
+## Použité zdroje
+
+  * [Vnútorný predpis UK č. 12/2013](http://www.uniba.sk/fileadmin/user_upload/editors/subory/legislativa/2013/vp_2013_12.pdf)
+  * [STN 01 6910](http://www.ucps.sk/subory/Pravne_predpisy_pdf_doc/STN_01_6910_Pravidla_pisania_a_upravy_pisomnosti.pdf)
+  * [http://tvorim.net/typografia/72-pisanie-zaverecnych-prac-a-tvorba-casopisov](http://tvorim.net/typografia/72-pisanie-zaverecnych-prac-a-tvorba-casopisov)
+
+## Ďalšie zdroje
+
+  * [Návody k záverečným prácam na UK](https://moja.uniba.sk/zaverecne-prace/)
+  * [Manuál k písaniu záverečnej práce](http://www.sccg.sk/ferko/manual%20k%20pisaniu%20zavercnej%20prace.pdf) (PDF; Ferko, 2010)
+  * [Odporúčania k písaniu bakalárskej a diplomovej práce](http://www.dai.fmph.uniba.sk/w/Recommendation_for_Writing_Bachelor_and_Diploma_Theses) (Ferko, 2005)
+
 
