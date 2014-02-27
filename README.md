@@ -1,6 +1,8 @@
 Záverečné práce na UK
 =====================
 
+**Upozornenie**: _Hoci tento text má snahu byť presný a úplný, nie je oficiálnym dokumentom Univerzity Komenského v Bratislave, a preto ho nemožno pokladať je záväzný. Za prípadne chyby autor nenesie zodpovednosť a uvíta ich nahlásenie_.
+
 Záverečné práca by mala obsahovať iba literatúrou podložené fakty a verifikovateľné hypotézy.
 
 Práca musí byť originálna, napísaná iba autorom samotným. Autor môže využívať dostupné informačné zdroje, ak sú správne citované a ak tým neporuší autorské práva iných autorov.
@@ -79,10 +81,9 @@ Záverečnú prácu v elektronickej podobe (vo formáte PDF) spolu s jej príloh
   * [STN 01 6910](http://www.ucps.sk/subory/Pravne_predpisy_pdf_doc/STN_01_6910_Pravidla_pisania_a_upravy_pisomnosti.pdf)
   * [http://tvorim.net/typografia/72-pisanie-zaverecnych-prac-a-tvorba-casopisov](http://tvorim.net/typografia/72-pisanie-zaverecnych-prac-a-tvorba-casopisov)
 
+
 ## Ďalšie zdroje
 
   * [Návody k záverečným prácam na UK](https://moja.uniba.sk/zaverecne-prace/)
   * [Manuál k písaniu záverečnej práce](http://www.sccg.sk/ferko/manual%20k%20pisaniu%20zavercnej%20prace.pdf) (PDF; Ferko, 2010)
   * [Odporúčania k písaniu bakalárskej a diplomovej práce](http://www.dai.fmph.uniba.sk/w/Recommendation_for_Writing_Bachelor_and_Diploma_Theses) (Ferko, 2005)
-
-
