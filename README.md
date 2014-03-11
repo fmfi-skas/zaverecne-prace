@@ -14,6 +14,11 @@ Základné náležitosti záverečných prác na Univerzite Komenského v Bratis
 
 Bakalárska práca je záverečnou prácou bakalárskeho štúdia. Študent by v nej mal prejaviť nadobudnuté schopnosti s prácou s informáciami, odborné znalosti z daného študijného oboru, v ktorom absolvoval študijný program, a tvorivý prístup k riešeniu problémov. Práca môže mať aplikačné i teoretické zameranie, či riešiť čiastkovú úlohu v rámci väčšieho celku.
 
+
+## Šablóny
+
+[Šablóny záverečných prác](https://github.com/fmfi-skas/zaverecne-prace-sablony) obsahujú základné potrebné nastavenia pre bakalárske a diplomové práce.
+
 ## Formálne náležitosti
 
 ### Typografia
